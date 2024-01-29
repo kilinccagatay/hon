@@ -1,3 +1,5 @@
+No speacial features on this fork, As a person who plans to have homeassistant in the future, it is only for supporting the developer of this code against Haier. 
+
 # Haier hOn
 [![hacs_badge](https://img.shields.io/badge/hacs-Default-41BDF5.svg)](https://hacs.xyz)
 [![GitHub](https://img.shields.io/github/license/Andre0512/hon?color=red)](https://github.com/Andre0512/hon/blob/main/LICENSE)
